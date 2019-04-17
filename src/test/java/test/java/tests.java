@@ -66,7 +66,7 @@ public class tests {
 
         Service service = new Service(fileRepository1, fileRepository2, fileRepository3);
 
-        assertEquals(service.saveNota("1","1",10,12, "nice"),0);
+        assertEquals(service.saveNota("1","1",10,12, "nice"),1);
 
 
     }

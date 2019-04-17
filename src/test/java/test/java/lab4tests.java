@@ -87,6 +87,6 @@ public class lab4tests {
         service.saveTema("19", "test", 10, 3);
         service.saveStudent("101", "Vasi", 322);
 
-        assertEquals(service.saveNota("101","19",10,10,"super super"),1);
+        assertEquals(service.saveNota("101","19",10,10,"super super"),0);
     }
 }
