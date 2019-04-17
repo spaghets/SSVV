@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entitati>
+    <nota IDStudent="101" IDTema="19">
+        <Nota>10.0</Nota>
+        <SaptamanaPredare>10</SaptamanaPredare>
+        <Feedback>super super</Feedback>
+    </nota>
+</Entitati>
